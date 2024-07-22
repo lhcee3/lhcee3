@@ -80,10 +80,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/An33sh">
-   ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1brx0v95w9khx5rzsgis41qo5)
-  </a>
-</div>
 
-###
