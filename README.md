@@ -1,11 +1,12 @@
-<h1 align="center">Howdy Mate !</h1>
+<h1 align="center">Howdy Mate!</h1>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://linkedin.com/in/saianeeshg90" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
 </div>
 
 ###
@@ -20,15 +21,15 @@
 
 ###
 
-<img align="right" height="" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif"  />
-
-###
-
-<p align="left">- 🔭 I’m currently a student.<br>- 📚 I am a freelancer too.<br>- ⚡ In my free time I explore.</p>
+<p align="left">- 🔭 I’m currently a student.<br>- 📚 did you know developers die faster than normal humans.<br>- ⚡ In my free time I explore.</p>
 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif"  />
 
 ###
 
