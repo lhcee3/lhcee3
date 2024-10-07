@@ -17,19 +17,19 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m currently a student.<br>- 📚 did you know this guy can dance to any song.<br>- ⚡ In my free time I explore.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
 <img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif"  />
+
+###
+
+<p align="left">- 🔭 I’m currently a student.<br>- 📚 did you know that guy can dance to any song.<br>- ⚡ In my free time I explore.</p>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
