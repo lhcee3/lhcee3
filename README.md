@@ -20,7 +20,7 @@
 
 ###
 
-<img align="right" height="144" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif"  />
+<img align="right" height="" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif"  />
 
 ###
 
