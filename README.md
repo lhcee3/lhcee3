@@ -83,6 +83,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
+[Listen to the track on Spotify](https://open.spotify.com/track/4q7ls1XOMHmZCvTYAqNhxZ?utm_source=generator)
+
+
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
@@ -95,4 +98,3 @@
 
 ###
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4q7ls1XOMHmZCvTYAqNhxZ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
