@@ -83,7 +83,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
-[Listen to the track on Spotify](https://open.spotify.com/track/4q7ls1XOMHmZCvTYAqNhxZ?utm_source=generator)
+
 
 
 ###
