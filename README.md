@@ -21,11 +21,7 @@
 
 ###
 
-<img align="right" height="200" src="https://www.icegif.com/wp-content/uploads/2023/01/icegif-162.gif"  />
-
-###
-
-<p align="left">- 🔭 I’m currently a student.<br>- 📚 did you know that guy can dance to any song.<br>- ⚡ In my free time I explore.</p>
+<p align="left">- 🔭 I’m currently a student.<br>-🥰 Web dev and Machine Learning<br>- 📚 Open Source Contributor<br>- ⚡ In my free time I explore.</p>
 
 ###
 
@@ -83,21 +79,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
 </div>
 
-
-
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=lhcee3&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
+<div align="center">
+  <a href="https://open.spotify.com/user/Ane3sh">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Ane3sh&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
 
-
-
-
-
-
+###
