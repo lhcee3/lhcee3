@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently a student.<br>-🥰 Web dev and Machine Learning<br>- 📚 Open Source Contributor<br>- ⚡ In my free time I explore.</p>
+<p align="left">- 🔭 I’m currently a student.<br>-🥰 Web dev and Machine Learning<br>- 📚 FOSS Enthusiast<br>- ⚡ In my free time I explore.</p>
 
 ###
 
