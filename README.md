@@ -12,9 +12,7 @@
  <a href="https://discord.com/channels/@me" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
  </a>
- <a href="https://stackoverflow.com/users/24526133/g-aneesh" target="_blank>
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-</a>
 </div>
 
 ###
