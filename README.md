@@ -15,7 +15,7 @@
  <a href="https://stackoverflow.com/users/24526133/g-aneesh" target="_blank>
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
 </div>
- </a>
+</a>
 
 ###
 
