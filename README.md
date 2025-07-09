@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently a student.<br>-🥰 Web dev and Machine Learning<br>- 📚 FOSS Enthusiast<br>- ⚡ In my free time I explore.</p>
+<p align="left">- 🔭 Seasoned Student Developer.<br>-🥰 Web 3 Contributor for Algorand<br>- 📚 FOSS Enthusiast<br>- ⚡ Machine Learning and Web Development.</p>
 
 ###
 
